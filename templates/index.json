@@ -12,30 +12,24 @@
     "image_with_text_overlay_7a3nar": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_pTkBXf": {
+        "subheading_idbhq8": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
-            "text": "Subheading"
+            "text": "Balsamo volumizzante al collagene PDRN con il 5% di Volufiline, l'ingrediente di cui tutti parlano."
           }
         },
         "heading_AhVa3X": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Risultati clinici a casa - senza aghi.",
             "heading_tag": "h1"
-          }
-        },
-        "richtext_3HQV3b": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_pTkBXf",
-        "heading_AhVa3X",
-        "richtext_3HQV3b"
+        "subheading_idbhq8",
+        "heading_AhVa3X"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -43,11 +37,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     }
   },

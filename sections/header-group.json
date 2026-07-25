@@ -14,15 +14,31 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_jnLpeP": {
+          "type": "message",
+          "settings": {
+            "text": "Pagamento sicuro al 100%",
+            "url": ""
+          }
+        },
+        "message_PaUgpw": {
+          "type": "message",
+          "settings": {
+            "text": "Spedizione gratuita",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Soddisfatti o rimborsati",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_jnLpeP",
+        "message_PaUgpw",
         "message"
       ],
       "settings": {
@@ -30,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#F6728E",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
